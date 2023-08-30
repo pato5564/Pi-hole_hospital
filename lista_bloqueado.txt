@@ -3,7 +3,7 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 31-07-2023
+# Updated: 30-08-2023
 # LatestVersion 1.5
 # ======================================================================================================
 #
@@ -594,3 +594,21 @@ embluemail.com
 loadm.exelator.com
 exelator.com
 baidu.com
+redgol.cl
+desafiomundaial.com
+ds-images.bolavip.com
+media.tycsports.com
+tycsports.com
+cdn.viafoura.net
+viafoura.net
+api.futbolsites.net
+futbolsites.net
+notifications.viafoura.co
+viafoura.co
+chile.as.com
+www.todofutbol.cl
+www.prensafutbol.cl
+bzib.nelreports.net
+nelreports.net
+registrocivilcl.org
+app.prensafutbol.cl
