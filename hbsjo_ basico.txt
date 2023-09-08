@@ -115,6 +115,13 @@ app.embluemail.com
 embluemail.com
 loadm.exelator.com
 exelator.com
+#
+#publicidad
+#
+cm.teads.tv
+teads.tv
+app.hubspot.com
+metrics-fe-na1.hubspot.com
 
 #
 #_______juegos_____
@@ -152,6 +159,8 @@ sdn.solitar.io
 solitar.io
 
 #
-# regex
+# conferencia
 #
-(\.|^)pd\.com\.au$
+config.edge.skype.com
+edge.skype.com
+skype.com

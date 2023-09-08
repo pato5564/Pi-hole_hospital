@@ -117,8 +117,10 @@ pull-cmaf-f77-gcp01.tiktokcdn.com
 pull-hls-l77-gcp01.tiktokcdn.com
 
 #
-#____- whatsapp___
+#____whatsapp___
 #
+media-scl2-1.cdn.whatsapp.net
+dit.whatsapp.net
 www.whatsapp.com
 whasapp.com
 www.whasapp.net
@@ -128,7 +130,8 @@ mng-fna.whasapp.net
 mng.whasapp.net
 static.whasapp.net
 web.whasapp.net
-
+media.fscl13-1.fna.whatsapp.net
+pps.whatsapp.net
 #
 #__________ instagram ________
 #
