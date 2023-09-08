@@ -1,0 +1,120 @@
+# Title: lista bloqueo basico TI HBSJO
+# Description: Pi-Hole bloqueo dominios no autorizados
+# Author: TI HBSJO
+# License:  Public 
+# Home: https://soporte.hospitalosorno.cl
+# Updated: 30-08-2023
+# LatestVersion 1.
+# ======================================================================================================
+#
+#
+# Phising
+#
+registrocivilcl.org
+aeroinstagram.com.tr
+age-instagram.com
+apkinstagram.com
+badges.instagram.com.verifycentre.com
+centerinstagram.com
+copyrighthelpteaminstagram.com.tr
+m.instagram.com.amazon-appfolio.cloud
+www.instagram.com.amazon-appfolio.cloud
+askinstagram.com
+brandyourinstagram.com
+chatinstagram.com
+chinainstagram.com
+chineseinstagram.com
+contractorsofinstagram.com
+copyrights-support-instagram.com
+downinstagram.com
+easyinstagram.com
+fenoinstagram.com
+gainfollowersinstagram.com
+gainfollowersoninstagram.com
+mail-protect-instagram.com
+marketmyinstagram.com
+masteringinstagram.com
+moneyoninstagram.com
+reportinstagram.com
+secure.verification-online.instagram.com.preserveoakville.com
+serviciosinstagram.com
+shopourinstagram.com
+supports-instagram.com
+updatemyinstagram.com
+upgradeyourinstagram.com
+user-instagram.com
+www.askinstagram.com
+www.brandyourinstagram.com
+www.chatinstagram.com
+www.chinainstagram.com
+www.chineseinstagram.com
+www.contractorsofinstagram.com
+www.downinstagram.com
+www.easyinstagram.com
+www.gainfollowersinstagram.com
+www.gainfollowersoninstagram.com
+www.mail-protect-instagram.com
+www.marketmyinstagram.com
+www.masteringinstagram.com
+www.moneyoninstagram.com
+www.shopourinstagram.com
+www.updatemyinstagram.com
+www.upgradeyourinstagram.com
+www.yahoo-instagram.com
+
+#
+# otros
+#
+shoppingeasyfree.shop
+sunexusgroup.com
+sunexusgroup.us13.list-manage.com
+us13.list-manage.com
+list-manage.com
+ntp.msn.com
+exelator.com
+loadm.exelator.com
+wirewuss.com
+wioe.com
+cdn.cookielaw.org
+cookielaw.org
+mtalk.google.com
+
+#
+#_______juegos_____
+#
+wowlatinoamerica.com
+worldofwarcraft.blizzard.com
+blizzard.com
+topg.org
+links.giveawayoftheday.com
+giveawayoftheday.com
+sur.ly
+www.rogwow.cu
+rogwow.cu
+solitarios-online.com
+attestation.xboxlive.com
+cert.mgt.xboxlive.com
+def-vef.xboxlive.com
+device.auth.xboxlive.com
+eds.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+notify.xboxlive.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+www.xboxlive.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xbolive.com
+xsts.auth.xboxlive.com
+www.pokeyplay.com
+pokeyplay.com
+consultorio.pokeyplay.com
+sdn.solitar.io
+solitar.io
+
+#
+# regex
+#
+(\.|^)pd\.com\.au$
