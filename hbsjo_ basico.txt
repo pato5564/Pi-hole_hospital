@@ -3,7 +3,7 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 30-08-2023
+# Updated: 08-09-2023
 # LatestVersion 1.
 # ======================================================================================================
 #
@@ -78,6 +78,43 @@ wioe.com
 cdn.cookielaw.org
 cookielaw.org
 mtalk.google.com
+fp2e7a.wpc.phicdn.net
+wpc.phicdn.net
+x1.c.lencr.org
+shavar.prod.mozaws.net
+prod.mozaws.net
+mozaws.net
+faxfinder.net
+support.faxfinder.net
+faxfinder.net
+macal.cl
+tlr.stripocdn.email
+stripocdn.email
+macal.ltacemlnd.com
+ltacemlnd.com
+yt4.ggpht.com
+ggpht.com
+mem.gfx.ms
+gfx.ms
+o-doo.fr
+www.o-doo.com
+o-doo.com
+i.ytimg.com
+ytimg.com
+sirius.mwbsys.com
+mwbsys.com
+privacyportal.onetrust.com
+hs-139641726.s.hubspotstarter-eu1.net
+djqr5w04.eu1.hubspotlinksstarter.com
+hubspotlinksstarter.com
+eu1.hubspotlinksstarter.com
+hubspotstarter-eu1.net
+s.hubspotstarter-eu1.net
+nts.embluemail.com
+app.embluemail.com
+embluemail.com
+loadm.exelator.com
+exelator.com
 
 #
 #_______juegos_____
