@@ -10,6 +10,25 @@
 #
 #__________ Tik Tok ________
 #
+pull-flv-f77-sg01.tiktokcdn.com
+pull-flv-f61-va01.tiktokcdn.com
+pull-flv-f11-gcp01.tiktokcdn.com
+pull-cmaf-l16-va01.tiktokcdn.com
+pull-cmaf-l77-gcp01.tiktokcdn.com
+pull-cmaf-l10-gcp01.tiktokcdn.com
+pull-f5-sg01.fcdn.eu.tiktokcdn.com
+pull-f5-tt02.fcdn.eu.tiktokcdn.com
+pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com
+pull-cmaf-f16-tt03.fcdn.us.tiktokcdn.com
+pull-cmaf-f16-tt03.fcdn.eu.tiktokcdn.com
+pull-cmaf-f16-gcp01.tiktokcdn.com
+pull-c5-gcp01.tiktokcdn.com
+pull-a5-gcp01.tiktokcdn.com
+p16-sign-va.tiktokcdn.com
+p16-sg.tiktokcdn.com
+p16-amd-va.tiktokcdn.com
+lf19-pitayacdn.tiktokcdn.com
+pull-flv-f61-va01.tiktokcdn.com
 api2-16-h2.musical.ly.edgekey.net
 bytedance.map.fastly.net
 musically-alternate.app.link
@@ -240,6 +259,11 @@ b.ns.cdninstagram.com
 #
 #facebook
 #
+z-p4-gateway.facebook.com
+z-p4-gateway.facebook.com
+mqtt-mini.facebook.com
+b-graph-fallback.facebook.com
+chat-e2ee-mini.facebook.com
 facebook.com
 edge-iglite-p42-shv-01-sea1.facebook.com
 edge-dgw-p4-shv-01-mba1.facebook.com
