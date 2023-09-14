@@ -12,9 +12,11 @@
 #
 www.paris.cl
 paris.cl
+www.paris.cl.cdn.cloudflare.net
 melidata.mercadolibre.com
 cyber.cl
 dafiti.cl
+www.dafiti.cl
 #
 
 #
