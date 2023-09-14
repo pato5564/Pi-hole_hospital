@@ -3,7 +3,7 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 08-09-2023
+# Updated: 30-08-2023
 # LatestVersion 1.
 # ======================================================================================================
 #
@@ -65,6 +65,8 @@ www.yahoo-instagram.com
 #
 # otros
 #
+matching.truffle.bid
+truffle.bid
 shoppingeasyfree.shop
 sunexusgroup.com
 sunexusgroup.us13.list-manage.com
@@ -116,16 +118,10 @@ embluemail.com
 loadm.exelator.com
 exelator.com
 #
-#publicidad
-#
-cm.teads.tv
-teads.tv
-app.hubspot.com
-metrics-fe-na1.hubspot.com
-
-#
 #_______juegos_____
 #
+catalog.gamepass.com
+gamepass.com
 wowlatinoamerica.com
 worldofwarcraft.blizzard.com
 blizzard.com
@@ -159,8 +155,6 @@ sdn.solitar.io
 solitar.io
 
 #
-# conferencia
+# regex
 #
-config.edge.skype.com
-edge.skype.com
-skype.com
+(\.|^)pd\.com\.au$
