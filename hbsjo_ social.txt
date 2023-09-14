@@ -122,6 +122,7 @@ c.ns.instagram.com
 scontent-ord5-2.cdninstagram.com
 cdninstagram.com
 instagram.com
+www.instagram.com
 platform.cdninstagram.com
 copyrighthelpteaminstagram.com.tr
 security.weblogin-contact-form-instagram.com
@@ -240,6 +241,7 @@ b.ns.cdninstagram.com
 #
 #facebook
 #
+www.facebook.com
 facebook.com
 edge-iglite-p42-shv-01-sea1.facebook.com
 edge-dgw-p4-shv-01-mba1.facebook.com

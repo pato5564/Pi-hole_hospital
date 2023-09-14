@@ -117,6 +117,8 @@ app.embluemail.com
 embluemail.com
 loadm.exelator.com
 exelator.com
+ip111.yah.cl
+
 #
 #_______juegos_____
 #
@@ -155,6 +157,6 @@ sdn.solitar.io
 solitar.io
 
 #
-# regex
+# google
 #
-(\.|^)pd\.com\.au$
+calendar.google.com
