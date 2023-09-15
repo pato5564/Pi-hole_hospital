@@ -274,3 +274,4 @@ ns-564.awsdns-06.net
 client.dropbox.com
 d.dropbox.com
 api.dropboxapi.com
+api-d.dropboxapi.com

@@ -96,6 +96,7 @@ pull-f5-gcp01.tiktokcdn.com
 pull-f5-sg01.ttlivecdn.com
 pull-cmaf-f77-gcp01.tiktokcdn.com
 pull-hls-l77-gcp01.tiktokcdn.com
+pc-mon-va.byteoversea.com
 
 #
 #____- whatsapp___
@@ -606,5 +607,5 @@ d.ns.vvv.facebook.com
 rampart.vvv.facebook.com
 lerequest.vvv.facebook.com
 mx.vvv.facebook.com
-
-
+mqtt-mini.facebook.com
+graph.facebook.com

@@ -533,12 +533,15 @@ relay-1734f890.net.anydesk.com
 get.anydesk.com
 relay-c0f2faf0.net.anydesk.com
 relay-99acdbc0.net.anydesk.com
-ns-1096.awsdns-09.org.
-ns-1606.awsdns-08.co.uk.
-ns-203.awsdns-25.com.
-ns-894.awsdns-47.net.
-10 mx01.hornetsecurity.com.
-20 mx02.hornetsecurity.com.
-30 mx03.hornetsecurity.com.
-40 mx04.hornetsecurity.com.
-50 barracuda.anydesk.com.
+relay-a44c906d.net.anydesk.com
+relay-9ec84ff7.net.anydesk.com
+boot.net.anydesk.com
+ns-1096.awsdns-09.org
+ns-1606.awsdns-08.co.uk
+ns-203.awsdns-25.com
+ns-894.awsdns-47.net
+10 mx01.hornetsecurity.com
+20 mx02.hornetsecurity.com
+30 mx03.hornetsecurity.com
+40 mx04.hornetsecurity.com
+50 barracuda.anydesk.com
