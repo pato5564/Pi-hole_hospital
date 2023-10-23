@@ -101,6 +101,8 @@ pc-mon-va.byteoversea.com
 #
 #____- whatsapp___
 #
+g-fallback.whatsapp.net
+e1.whatsapp.net
 e14.whatsapp.net
 e10.whatsapp.net
 e12.whatsapp.net

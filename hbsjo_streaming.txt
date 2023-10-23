@@ -10,6 +10,12 @@
 #
 #__________ streming ________
 #
+deff.nelreports.net
+nelreports.net
+imagenes.elpais.com
+elpais.com
+a1366.dscapi6.akamai.net
+clgradio.cl
 www.alairelibre.cl
 alairelibre.cl
 sst.cooperativa.cl
