@@ -10,6 +10,10 @@
 #
 #_____ tiendas_____
 #
+www.peregrina.cl
+peregrina.cl
+www.dshopping.cl
+dshopping.cl
 www.paris.cl
 paris.cl
 www.paris.cl.cdn.cloudflare.net
@@ -17,6 +21,8 @@ melidata.mercadolibre.com
 cyber.cl
 dafiti.cl
 www.dafiti.cl
+casaideas.cl
+www.casaideas.cl
 #
 
 #

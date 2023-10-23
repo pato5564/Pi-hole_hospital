@@ -10,6 +10,12 @@
 #
 #__________ streming ________
 #
+videos.demoup.com
+demoup.com
+statictv.ecn.cl
+ingtv.ecn.cl
+ecn.cl
+tv.emol.cl
 deff.nelreports.net
 nelreports.net
 imagenes.elpais.com
@@ -217,6 +223,7 @@ musiconworldoff.mx
 accounts.youtube.com
 #_____________ spotify ___________________
 #
+login5.spotify.com
 www.open.spotify.com
 spotify.com
 ap.spotify.com
