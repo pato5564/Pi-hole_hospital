@@ -77,6 +77,12 @@ queue-it.net
 #
 # otros
 #
+alexandertreef.icu
+chileservidores.cl
+www.chileservidores.cl
+grs-pub.platform.dbankcloud.com
+grs-pub.platform.dbankcloud.ru
+grs-pub.platform.dbankcloud.cn
 download.wetransfer.com
 wetransfer.com
 backgrounds.wetransfer.net
