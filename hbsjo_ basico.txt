@@ -3,13 +3,16 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 30-08-2023
+# Updated: 24-10-2023
 # LatestVersion 1.
 # ======================================================================================================
 #
 #
 # Phising
 #
+u14012410.ct.sendgrid.net
+ct.sendgrid.net
+sendgrid.net
 superior-carpo.xyz
 germogenborya.top
 registrocivilcl.org
