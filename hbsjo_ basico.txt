@@ -185,3 +185,127 @@ solitar.io
 # google
 #
 calendar.google.com
+#
+#openai
+#
+openai.com
+home.apps.openai.com
+contest.openai.com
+musenet-pg.openai.com
+msly.api.openai.com
+prod.contest.openai.com
+api.openai.com
+dev.contest.openai.com
+debate-game.openai.com
+generations.openai.com
+glow.openai.com
+musenet.openai.com
+onramp.apps.openai.com
+prod-primary-aks-scentralus-api-b.api.openai.com
+chat.apps.openai.com
+auth0.openai.com
+#
+#jasper ai
+#
+www.jasper.ai
+app.jasper.ai
+fun.jasper.ai
+jasper.ai
+#
+#youchat ai
+#
+web.youchat.com
+youchat.com
+broadcast.youchat.com
+you.com
+#
+#perplexity ai
+#
+www.perplexity.ai
+perplexity.ai
+#
+#socratic ai
+#
+socratic.org
+static.socratic.org
+blog.socratic.org
+useruploads.socratic.org
+profilepictures.socratic.org
+#
+#
+#
+bard.google.com
+#
+#copy ai
+#
+community.copy.ai
+try.copy.ai
+trust.copy.ai
+affiliates.copy.ai
+app.copy.ai
+help.copy.ai
+admin.copy.ai
+email.copy.ai
+tools-api.copy.ai
+api.copy.ai
+copy.ai
+#
+# huggingface ai
+#
+huggingface.co
+laksh.api-inference.huggingface.co
+api-staging.autotrain.huggingface.co
+ui.autotrain.huggingface.co
+api.autonlp.huggingface.co
+api.autotrain.huggingface.co
+metrics.autonlp.huggingface.co
+ui-staging.autonlp.huggingface.co
+moonrise.huggingface.co
+ui.autonlp.huggingface.co
+banana.huggingface.co
+crow.api-inference.huggingface.co
+datasets-server.huggingface.co
+metrics.autotrain.huggingface.co
+api-inference.huggingface.co
+metrics-staging.autonlp.huggingface.co
+spaces.huggingface.co
+metrics-staging.autotrain.huggingface.co
+api-staging.autonlp.huggingface.co
+thumbnails.huggingface.co
+ui-staging.autotrain.huggingface.co
+tensorboard.huggingface.co
+#
+# ora ai
+#
+ora ai
+devblog.ora.ai
+api.ora.ai
+dev-ds-api.ora.ai
+development.ora.ai
+#
+#poe iai
+#
+poe.com
+www.poe.com
+#
+#getmerlin ai
+#
+www.getmerlin.in
+getmerlin.in
+app.getmerlin.in
+#
+#llama ai
+#
+ai.meta.com
+qa.llama.ai
+staging.llama.ai
+jaeger.staging.internal.llama.ai
+staging.internal.llama.ai
+internal.llama.ai
+help.llama.ai
+us.llama.ai
+dev.llama.ai
+www.llama.ai
+llama2.ai
+www.llama2.ai
+replicate.com
