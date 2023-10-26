@@ -77,6 +77,9 @@ queue-it.net
 #
 # otros
 #
+firefox.settings.services.mozilla.com
+autopush.prod.mozaws.net
+prod.remote-settings.prod.webservices.mozgcp.net
 alexandertreef.icu
 chileservidores.cl
 www.chileservidores.cl
