@@ -10,6 +10,7 @@
 #
 # Phising
 #
+wisecobranza.cl
 u14012410.ct.sendgrid.net
 ct.sendgrid.net
 sendgrid.net
