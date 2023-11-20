@@ -253,6 +253,7 @@ accounts.spotify.com
 
 #_____________ netflix ___________________
 #
+www.netflix.com
 android.prod.cloud.netflix.com
 netflix.com
 nrdp.nccp.us-east-1.prodaa.netflix.com
