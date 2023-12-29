@@ -3,7 +3,7 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 24-10-2023
+# Updated: 29-12-2023
 # LatestVersion 1.
 # ======================================================================================================
 #
@@ -275,8 +275,8 @@ wioe.com
 cdn.cookielaw.org
 cookielaw.org
 mtalk.google.com
-fp2e7a.wpc.phicdn.net
-wpc.phicdn.net
+#fp2e7a.wpc.phicdn.net
+#wpc.phicdn.net
 x1.c.lencr.org
 shavar.prod.mozaws.net
 prod.mozaws.net
