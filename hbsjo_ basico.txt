@@ -73,11 +73,6 @@ www.yoyogames.com
 yoyo-www.yoyogames.com
 arya.ns.cloudflare.com
 skip.ns.cloudflare.com
-1 aspmx.l.google.com
-10 alt3.aspmx.l.google.com
-10 alt4.aspmx.l.google.com
-5 alt1.aspmx.l.google.com
-5 alt2.aspmx.l.google.com
 
 #
 #
@@ -175,12 +170,8 @@ ns-1496.awsdns-59.org.
 ns-1609.awsdns-09.co.uk.
 ns-406.awsdns-50.com.
 ns-770.awsdns-32.net.
-aspmx.l.google.com.
-alt3.aspmx.l.google.com.
-alt4.aspmx.l.google.com.
 inbound-smtp.us-east-1.amazonaws.com.
-alt1.aspmx.l.google.com.
-alt2.aspmx.l.google.com.
+
 
 #
 # otros
@@ -364,6 +355,20 @@ solitar.io
 # google
 #
 calendar.google.com
+bard.google.com
+aspmx.l.google.com
+alt1.aspmx.l.google.com
+alt2.aspmx.l.google.com
+alt3.aspmx.l.google.com
+alt4.aspmx.l.google.com
+##https://accounts.google.com/
+#accounts.google.com
+#alt1.gmr-smtp-in.l.google.com
+#alt4.gmr-smtp-in.l.google.com
+#gmr-smtp-in.l.google.com
+#alt3.gmr-smtp-in.l.google.com
+#alt2.gmr-smtp-in.l.google.com
+
 #
 #openai
 #
@@ -410,10 +415,6 @@ static.socratic.org
 blog.socratic.org
 useruploads.socratic.org
 profilepictures.socratic.org
-#
-#
-#
-bard.google.com
 #
 #copy ai
 #
