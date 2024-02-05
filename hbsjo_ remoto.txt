@@ -577,6 +577,7 @@ relay-91c13243.net.anydesk.com
 relay-df33bd43.net.anydesk.com
 relay-f2000363.net.anydesk.com
 relay-5225695d.net.anydesk.com
+relay-1c040ae6.net.anydesk.com
 icinga-as-01.internal.anydesk.com
 icinga-il-01.internal.anydesk.com
 icinga-il-02.internal.anydesk.com
@@ -598,3 +599,5 @@ dimitris.ns.cloudflare.com
 49.12.130.236	
 57.128.101.78	
 57.128.101.75	
+92.223.88.41	
+186.233.185.65	
