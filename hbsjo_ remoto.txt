@@ -576,6 +576,7 @@ relay-0b975d23.net.anydesk.com
 relay-91c13243.net.anydesk.com
 relay-df33bd43.net.anydesk.com
 relay-f2000363.net.anydesk.com
+relay-5225695d.net.anydesk.com
 icinga-as-01.internal.anydesk.com
 icinga-il-01.internal.anydesk.com
 icinga-il-02.internal.anydesk.com
