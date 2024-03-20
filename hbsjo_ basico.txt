@@ -78,6 +78,7 @@ skip.ns.cloudflare.com
 #
 # Phising
 #
+zeussiir.info
 wisecobranza.cl
 u14012410.ct.sendgrid.net
 ct.sendgrid.net
