@@ -3,13 +3,15 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 20-11-2023
-# LatestVersion 1.2
+# Updated: 02-04-2024
+# LatestVersion 1.5
 # ======================================================================================================
 #
 #
 #__________ streming ________
 #
+mega.cl
+www.mega.cl
 addon.sblock.pro
 sblock.pro
 www.powr.io

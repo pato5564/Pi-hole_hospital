@@ -3,9 +3,14 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 29-12-2023
-# LatestVersion 1.
+# Updated: 02-04-2024
+# LatestVersion 1.5
 # ======================================================================================================
+#
+#
+# google
+safebrowsing.googleapis.com
+play.google.com
 #
 # spam
 #
@@ -182,6 +187,27 @@ inbound-smtp.us-east-1.amazonaws.com.
 #
 # otros
 #
+assets.contentstack.io
+contentstack.io
+eldinamo.cl
+www.eldinamo.cl
+geo.dailymotion.com
+dailymotion.com
+e-planning.net
+notix.io
+cdn.jsdelivr.net
+jsdelivr.net
+jsdelivr.map.fastly.net
+map.fastly.net
+fastly.net
+cdn.fastly.net
+pinmap-gangster.netlify.app
+netlify.app
+shop.app
+cdn.shop.app
+cdn.shopify.com
+shops.myshopify.com
+myshopify.com
 rainydayprojec.xyz
 studio-carreau.website
 jecomprends.website

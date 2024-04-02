@@ -433,6 +433,7 @@ router16.teamviewer.com
 #
 # anydesk
 #
+bot.net.anydesk.com
 anydesk.com
 www.anydesk.com
 anydesk.net
