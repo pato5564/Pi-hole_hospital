@@ -7,7 +7,12 @@
 # LatestVersion 1.
 # ======================================================================================================
 #
+# spam
+#
 correoinvalido.hosp
+zohomail.com
+salud.madrid.org
+madrid.org
 #
 #
 #opera
