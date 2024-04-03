@@ -275,3 +275,4 @@ client.dropbox.com
 d.dropbox.com
 api.dropboxapi.com
 api-d.dropboxapi.com
+dl-debug.dropbox.com

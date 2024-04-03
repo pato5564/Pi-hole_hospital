@@ -10,6 +10,8 @@
 #
 #__________ streming ________
 #
+envivo.fmdos.cl
+video.twimg.com
 mega.cl
 www.mega.cl
 addon.sblock.pro
