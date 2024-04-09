@@ -14,10 +14,10 @@ play.google.com
 calendar.google.com
 bard.google.com
 aspmx.l.google.com
-alt1.aspmx.l.google.com
-alt2.aspmx.l.google.com
-alt3.aspmx.l.google.com
-alt4.aspmx.l.google.com
+##alt1.aspmx.l.google.com
+#alt2.aspmx.l.google.com
+#alt3.aspmx.l.google.com
+#alt4.aspmx.l.google.com
 #
 # malware
 #
@@ -184,34 +184,6 @@ chilecompra.queue-it.net
 www.chilecompra.queue-it.net
 queue-it.net
 
-#
-# kommunicate.io
-#
-kommunicate.io
-alpha2.kommunicate.io
-kibana.kommunicate.io
-dashboard-proxy-testb.kommunicate.io
-helpcenter-proxy-testb.kommunicate.io
-dashboard-proxyb.kommunicate.io
-helpcenter-proxyb.kommunicate.io
-metabase-ne.kommunicate.io
-metabase.kommunicate.io
-kompose.kommunicate.io
-webhook-custom.kommunicate.io
-metabase-in.kommunicate.io
-symptom-bot-checker.kommunicate.io
-get.kommunicate.io
-chatgpt.kommunicate.io
-kompose-test.kommunicate.io
-dashboard-proxy-test.kommunicate.io
-dashboard-proxy.kommunicate.io
-helpcenter-proxy.kommunicate.io
-webscrapper.kommunicate.io
-ns-1496.awsdns-59.org.
-ns-1609.awsdns-09.co.uk.
-ns-406.awsdns-50.com.
-ns-770.awsdns-32.net.
-inbound-smtp.us-east-1.amazonaws.com.
 
 
 #
@@ -408,126 +380,7 @@ pokeyplay.com
 consultorio.pokeyplay.com
 sdn.solitar.io
 solitar.io
-#
-#openai
-#
-openai.com
-home.apps.openai.com
-contest.openai.com
-musenet-pg.openai.com
-msly.api.openai.com
-prod.contest.openai.com
-api.openai.com
-dev.contest.openai.com
-debate-game.openai.com
-generations.openai.com
-glow.openai.com
-musenet.openai.com
-onramp.apps.openai.com
-prod-primary-aks-scentralus-api-b.api.openai.com
-chat.apps.openai.com
-auth0.openai.com
-#
-#jasper ai
-#
-www.jasper.ai
-app.jasper.ai
-fun.jasper.ai
-jasper.ai
-#
-#youchat ai
-#
-web.youchat.com
-youchat.com
-broadcast.youchat.com
-you.com
-#
-#perplexity ai
-#
-www.perplexity.ai
-perplexity.ai
-#
-#socratic ai
-#
-socratic.org
-static.socratic.org
-blog.socratic.org
-useruploads.socratic.org
-profilepictures.socratic.org
-#
-#copy ai
-#
-community.copy.ai
-try.copy.ai
-trust.copy.ai
-affiliates.copy.ai
-app.copy.ai
-help.copy.ai
-admin.copy.ai
-email.copy.ai
-tools-api.copy.ai
-api.copy.ai
-copy.ai
-#
-# huggingface ai
-#
-huggingface.co
-laksh.api-inference.huggingface.co
-api-staging.autotrain.huggingface.co
-ui.autotrain.huggingface.co
-api.autonlp.huggingface.co
-api.autotrain.huggingface.co
-metrics.autonlp.huggingface.co
-ui-staging.autonlp.huggingface.co
-moonrise.huggingface.co
-ui.autonlp.huggingface.co
-banana.huggingface.co
-crow.api-inference.huggingface.co
-datasets-server.huggingface.co
-metrics.autotrain.huggingface.co
-api-inference.huggingface.co
-metrics-staging.autonlp.huggingface.co
-spaces.huggingface.co
-metrics-staging.autotrain.huggingface.co
-api-staging.autonlp.huggingface.co
-thumbnails.huggingface.co
-ui-staging.autotrain.huggingface.co
-tensorboard.huggingface.co
-#
-# ora ai
-#
-ora ai
-devblog.ora.ai
-api.ora.ai
-dev-ds-api.ora.ai
-development.ora.ai
-#
-#poe iai
-#
-poe.com
-www.poe.com
-#
-#getmerlin ai
-#
-www.getmerlin.in
-getmerlin.in
-app.getmerlin.in
-#
-#llama ai
-#
-ai.meta.com
-qa.llama.ai
-staging.llama.ai
-jaeger.staging.internal.llama.ai
-staging.internal.llama.ai
-internal.llama.ai
-help.llama.ai
-us.llama.ai
-dev.llama.ai
-www.llama.ai
-llama2.ai
-www.llama2.ai
-replicate.com
+
 #
 #RANSOMWARE RORSCHACH
 #
@@ -769,4 +622,4 @@ ns-1192.awsdns-21.org
 ns-1996.awsdns-57.co.uk
 ns-6.awsdns-00.com
 ns-843.awsdns-41.net
-10 nintendo-net.mail.protection.outlook.com
+nintendo-net.mail.protection.outlook.com
