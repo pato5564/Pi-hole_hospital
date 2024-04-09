@@ -8,6 +8,9 @@
 # ======================================================================================================
 #
 #
+# sin categoria
+graph.fbpigeon.com
+#
 #__________ Tik Tok ________
 #
 api2-16-h2.musical.ly.edgekey.net
@@ -102,6 +105,8 @@ pc-mon-va.byteoversea.com
 #
 #____- whatsapp___
 #
+media-gru1-2.cdn.whatsapp.net
+static.whatsapp.net
 g-fallback.whatsapp.net
 e1.whatsapp.net
 e14.whatsapp.net
@@ -319,7 +324,7 @@ c.ns.cdn.whatsapp.net
 b.ns.cdn.whatsapp.net
 d.ns.cdn.whatsapp.net
 a.ns.cdn.whatsapp.net
-
+web.whatsapp.com
 
 #
 #__________ instagram ________

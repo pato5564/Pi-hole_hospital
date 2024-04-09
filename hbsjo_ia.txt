@@ -155,3 +155,7 @@ www.llama.ai
 llama2.ai
 www.llama2.ai
 replicate.com
+#
+#microsoft
+#
+copilot.microsoft.com
