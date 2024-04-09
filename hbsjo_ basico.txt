@@ -11,6 +11,36 @@
 # google
 safebrowsing.googleapis.com
 play.google.com
+calendar.google.com
+bard.google.com
+aspmx.l.google.com
+alt1.aspmx.l.google.com
+alt2.aspmx.l.google.com
+alt3.aspmx.l.google.com
+alt4.aspmx.l.google.com
+#
+# malware
+#
+209.59.174.255
+23.239.3.218
+34.117.186.192
+www.anchoriaatrade.com
+anchoriaatrade.com
+www.digitalmukesh.info
+digitalmukesh.info
+augustineformayor.ca
+banglachotigolpo.top
+ikaglm.com
+johnwilliamnelson.com
+lot.ziy.cc
+uww-reg.ru
+uncutmaza.club
+barbermoscow.ru
+www.barbermoscow.ru
+52zd.com
+34.117.186.192
+3.145.16.157
+162.215.218.231
 #
 # spam
 #
@@ -83,11 +113,11 @@ www.yoyogames.com
 yoyo-www.yoyogames.com
 arya.ns.cloudflare.com
 skip.ns.cloudflare.com
-
-#
 #
 # Phising
 #
+6859004.hostengines.com
+hostengines.com
 zeussiir.info
 wisecobranza.cl
 u14012410.ct.sendgrid.net
@@ -245,8 +275,6 @@ stitchwitch.online
 abeta.site
 telepremium.website
 jecomprends.website
-
-jecomprends.website
 sweetslyrics.icu
 cnpestcontrol.site
 133455789.xyz
@@ -307,8 +335,6 @@ wioe.com
 cdn.cookielaw.org
 cookielaw.org
 mtalk.google.com
-#fp2e7a.wpc.phicdn.net
-#wpc.phicdn.net
 x1.c.lencr.org
 shavar.prod.mozaws.net
 prod.mozaws.net
@@ -382,25 +408,6 @@ pokeyplay.com
 consultorio.pokeyplay.com
 sdn.solitar.io
 solitar.io
-
-#
-# google
-#
-calendar.google.com
-bard.google.com
-aspmx.l.google.com
-alt1.aspmx.l.google.com
-alt2.aspmx.l.google.com
-alt3.aspmx.l.google.com
-alt4.aspmx.l.google.com
-##https://accounts.google.com/
-#accounts.google.com
-#alt1.gmr-smtp-in.l.google.com
-#alt4.gmr-smtp-in.l.google.com
-#gmr-smtp-in.l.google.com
-#alt3.gmr-smtp-in.l.google.com
-#alt2.gmr-smtp-in.l.google.com
-
 #
 #openai
 #

@@ -10,7 +10,7 @@
 #
 #__________ streming ________
 #
-10.2.156.156.114 music.youtube.com
+
 envivo.fmdos.cl
 video.twimg.com
 mega.cl
