@@ -454,11 +454,11 @@ solitar.io
 198.20.101.98
 #185.94.111.1
 71.6.134.233
-162.243.135.9
+#162.243.135.9
 183.136.225.48
 64.62.197.214
 107.170.234.29
-198.199.104.8
+#198.199.104.8
 167.94.138.100
 167.94.138.106
 162.142.125.81
@@ -513,7 +513,7 @@ service-aggregation-layer.juno.ea.com
 tile.ttzgame.com
 checkipo.labaz.vip
 video-edge-ab502e.pdx01.abs.hls.ttvnw.net
-status]albiononline.com
+status.albiononline.com
 outoctillerytor.com
 publisher-event.unityads.unity3d.com
 datarouter.ol.epicgames.com
