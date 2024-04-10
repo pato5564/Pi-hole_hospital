@@ -3,13 +3,24 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 30-08-2023
-# LatestVersion 1.
+# Updated: 10-04-2024
+# LatestVersion 1.5
 # ======================================================================================================
 #
 #
 #_____ tiendas_____
 #
+www.yapo.cl
+static.yapo.cl
+img.yapo.cl
+yapo.cl
+hushpuppieskidscl.vtexassets.com
+www.hushpuppieskids.cl
+hushpuppieskids.cl
+api.vestua.cl
+images.vestua.cl
+data.vestua.cl
+vestua.cl
 www.temu.com
 temu.com
 www.peregrina.cl
@@ -139,6 +150,7 @@ ns1.alibabadns.com.
 #
 #aliexpress
 #
+jm-msg-global.aliexpress.com
 aliexpress.com
 hz-apush40.aliexpress.com
 gdsns1.aliexpress.com

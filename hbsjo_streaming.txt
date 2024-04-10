@@ -3,13 +3,19 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 02-04-2024
+# Updated: 10-04-2024
 # LatestVersion 1.5
 # ======================================================================================================
 #
 #
 #__________ streming ________
 #
+busy.any-latam.prd.api.discomax.com
+any-latam.prd.api.discomax.com
+prd.api.discomax.com
+api.discomax.com
+discomax.com
+redirector.googlevideo.com
 www.rojadirecta.eu
 rojadirecta.eu
 live-ftc-na-south-2.media.starott.com

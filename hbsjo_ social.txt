@@ -3,7 +3,7 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 02-04-2024
+# Updated: 010-04-2024
 # LatestVersion 1.5
 # ======================================================================================================
 #
@@ -105,6 +105,7 @@ pc-mon-va.byteoversea.com
 #
 #____- whatsapp___
 #
+e9.whatsapp.net
 media-gru1-2.cdn.whatsapp.net
 static.whatsapp.net
 g-fallback.whatsapp.net
@@ -340,11 +341,11 @@ cdninstagram.com
 instagram.com
 www.instagram.com
 platform.cdninstagram.com
-||graph.instagram.com^
-||badges.instagram.com^
-||sssinstagram.com^
-||platform.cdninstagram.com^
-||logger.instagram.com^
+graph.instagram.com
+badges.instagram.com
+sssinstagram.com
+platform.cdninstagram.com
+logger.instagram.com
 scontent-mba1-1.cdninstagram.com
 scontent-sea1-1.cdninstagram.com
 scontent-gua1-1.cdninstagram.com
@@ -453,6 +454,10 @@ b.ns.cdninstagram.com
 #
 #facebook
 #
+edge-chat.facebook.com
+dgw.fallback.c10r.facebook.com
+chat-e2ee.c10r.facebook.com
+graph-fallback.facebook.com
 www.facebook.com
 facebook.com
 edge-iglite-p42-shv-01-sea1.facebook.com
