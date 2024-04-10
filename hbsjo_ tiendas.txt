@@ -10,6 +10,8 @@
 #
 #_____ tiendas_____
 #
+www.temu.com
+temu.com
 www.peregrina.cl
 peregrina.cl
 www.dshopping.cl
@@ -28,6 +30,7 @@ www.casaideas.cl
 #
 #____ alibaba
 #
+m2hq4.tdum.alibaba.com
 alibaba.com
 mx21.china.alibaba.com
 gdsns1.alibaba.com

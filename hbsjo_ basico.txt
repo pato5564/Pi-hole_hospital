@@ -15,10 +15,29 @@ play.google.com
 calendar.google.com
 bard.google.com
 aspmx.l.google.com
-
+#
+# telemetria
+#
+fonts.shopifycdn.com
 #
 # malware
 #
+aimg.kwcdn.com
+p.abbny.com
+abbny.com
+o.beahh.com
+beahh.com
+privseek.com 
+ouaefgoiafehoafeughoaufeoiuafseghgouaesf.faith 
+bmores.info 
+litmir.info 
+wattpadrewards.win 
+ysulfkey.com 
+falebee.info 
+gidwabj.com 
+inboxdeals.top 
+i.haqo.net
+haqo.net
 209.59.174.255
 23.239.3.218
 34.117.186.192
