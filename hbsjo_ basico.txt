@@ -7,6 +7,11 @@
 # LatestVersion 1.5
 # ======================================================================================================
 #
+#extenciones navegador
+#
+chromewebstore.google.com
+addons.mozilla.org
+
 #
 # google
 #
@@ -15,7 +20,6 @@ play.google.com
 calendar.google.com
 bard.google.com
 aspmx.l.google.com
-
 #
 # malware
 #
@@ -143,6 +147,9 @@ queue-it.net
 #
 # otros
 #
+stats.g.doubleclick.net
+g.doubleclick.net
+doubleclick.net
 update.nai.com
 sp.vtex.com
 rc.vtex.com
@@ -155,8 +162,6 @@ geo.dailymotion.com
 dailymotion.com
 e-planning.net
 notix.io
-cdn.jsdelivr.net
-jsdelivr.net
 jsdelivr.map.fastly.net
 map.fastly.net
 fastly.net

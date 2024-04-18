@@ -8,6 +8,23 @@
 # ======================================================================================================
 #
 #
+#recordrussia.ru
+#
+vk.com
+e-cdns-images.dzcdn.net
+dzcdn.net
+music.yandex.ru
+yandex.ru
+stations.website.yandexcloud.net
+website.yandexcloud.net
+yandexcloud.net
+recordrussia.ru
+yastatic.net
+mc.yandex.ru
+an.yandex.ru
+favicon.yandex.net
+avatars.mds.yandex.net
+#
 #__________ streming ________
 #
 busy.any-latam.prd.api.discomax.com
