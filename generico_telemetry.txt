@@ -1,0 +1,8 @@
+
+
+#
+# telemetria
+#
+publift-d.openx.net
+fonts.shopifycdn.com
+shftr.adnxs.net

@@ -454,6 +454,7 @@ b.ns.cdninstagram.com
 #
 #facebook
 #
+mqtt-p4.facebook.com
 edge-chat.facebook.com
 dgw.fallback.c10r.facebook.com
 chat-e2ee.c10r.facebook.com
