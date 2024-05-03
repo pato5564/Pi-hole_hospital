@@ -36,7 +36,7 @@ ns-406.awsdns-50.com.
 ns-770.awsdns-32.net.
 inbound-smtp.us-east-1.amazonaws.com.
 #
-#openai
+#openAI
 #
 openai.com
 home.apps.openai.com
@@ -55,26 +55,26 @@ prod-primary-aks-scentralus-api-b.api.openai.com
 chat.apps.openai.com
 auth0.openai.com
 #
-#jasper ai
+#jasper
 #
 www.jasper.ai
 app.jasper.ai
 fun.jasper.ai
 jasper.ai
 #
-#youchat ai
+#youchat
 #
 web.youchat.com
 youchat.com
 broadcast.youchat.com
 you.com
 #
-#perplexity ai
+#perplexity 
 #
 www.perplexity.ai
 perplexity.ai
 #
-#socratic ai
+#socratic
 #
 socratic.org
 static.socratic.org
@@ -82,7 +82,7 @@ blog.socratic.org
 useruploads.socratic.org
 profilepictures.socratic.org
 #
-#copy ai
+#copy
 #
 community.copy.ai
 try.copy.ai
@@ -96,7 +96,7 @@ tools-api.copy.ai
 api.copy.ai
 copy.ai
 #
-# huggingface ai
+# huggingface
 #
 huggingface.co
 laksh.api-inference.huggingface.co
@@ -121,26 +121,26 @@ thumbnails.huggingface.co
 ui-staging.autotrain.huggingface.co
 tensorboard.huggingface.co
 #
-# ora ai
+# ora
 #
-ora ai
+ora.ai
 devblog.ora.ai
 api.ora.ai
 dev-ds-api.ora.ai
 development.ora.ai
 #
-#poe ai
+#poe
 #
 poe.com
 www.poe.com
 #
-#getmerlin ai
+#getmerlin
 #
 www.getmerlin.in
 getmerlin.in
 app.getmerlin.in
 #
-#llama ai
+#llama
 #
 ai.meta.com
 qa.llama.ai
