@@ -30,11 +30,7 @@ dashboard-proxy-test.kommunicate.io
 dashboard-proxy.kommunicate.io
 helpcenter-proxy.kommunicate.io
 webscrapper.kommunicate.io
-ns-1496.awsdns-59.org.
-ns-1609.awsdns-09.co.uk.
-ns-406.awsdns-50.com.
-ns-770.awsdns-32.net.
-inbound-smtp.us-east-1.amazonaws.com.
+
 #
 #openAI
 #
