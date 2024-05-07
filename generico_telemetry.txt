@@ -6,3 +6,4 @@
 publift-d.openx.net
 fonts.shopifycdn.com
 shftr.adnxs.net
+flowcards.mrf.io
