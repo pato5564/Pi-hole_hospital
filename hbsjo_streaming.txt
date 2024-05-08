@@ -3,10 +3,18 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 10-04-2024
+# Updated: 08-05-2024
 # LatestVersion 1.5
 # ======================================================================================================
 #
+#
+#videoplaza.tv
+#
+es-sunicontent.videoplaza.tv
+origin.videoplaza.tv
+proxy.as1-edge.adserving-edge.videoplaza.tv
+adserving-edge.videoplaza.tv
+za-mc-cdn.videoplaza.tv
 #
 #recordrussia.ru
 #
