@@ -3,7 +3,16 @@
 #
 # telemetria
 #
+trace.popin.cc
+popin.cc
 publift-d.openx.net
 fonts.shopifycdn.com
 shftr.adnxs.net
 flowcards.mrf.io
+o158674.ingest.sentry.io
+ingest.sentry.io
+trace.mediago.io
+gallery.retailrocket.net
+demo.retailrocket.net
+manual.retailrocket.net
+tracking.retailrocket.net

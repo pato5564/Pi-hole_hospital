@@ -315,10 +315,9 @@ ads.viralize.tv
 59iav.live
 www.xbox.com
 fun123.live
-www.msftconnecttest.com
 germogenborya.top
 germogenborya.at
-www.msftconnecttest.com
+## www.msftconnecttest.com ## windows valida conexion
 matching.truffle.bid
 truffle.bid
 shoppingeasyfree.shop
