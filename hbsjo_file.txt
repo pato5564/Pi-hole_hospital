@@ -1,3 +1,12 @@
+# Title: lista bloqueo CLOUD TI HBSJO
+# Description: Pi-Hole bloqueo dominios no autorizados almacenamiento en la nube
+# Author: TI HBSJO
+# License:  Public 
+# Home: https://soporte.hospitalosorno.cl
+# Updated: 10-07-2024
+# LatestVersion 1.5
+# ======================================================================================================
+#
 #
 # nai.com
 ftp.nai.com
@@ -108,118 +117,7 @@ rihana.ns.cloudflare.com
 0 sendthisfile-com.mail.protection.outlook.com
 
 
-#
-# wetransfer.com
-#
-wetransfer.com
-rockstar4000.wetransfer.com
-tryk2100.wetransfer.com
-hsl100.wetransfer.com
-balfour100.wetransfer.com
-intouch8200.wetransfer.com
-zone300.wetransfer.com
-synode400.wetransfer.com
-estrellagalicia00.wetransfer.com
-t10.wetransfer.com
-osisaeje2020.wetransfer.com
-premiofarben2020.wetransfer.com
-isms2020.wetransfer.com
-optik360.wetransfer.com
-playroom360.wetransfer.com
-eins60.wetransfer.com
-fashionclub70.wetransfer.com
-arti70.wetransfer.com
-electricalestimating101.wetransfer.com
-point101.wetransfer.com
-rdr01.wetransfer.com
-mx01.wetransfer.com
-schreier0711.wetransfer.com
-lt-20210824092911.wetransfer.com
-nm11.wetransfer.com
-sign11.wetransfer.com
-ajedrez21.wetransfer.com
-gamv6731.wetransfer.com
-d51.wetransfer.com
-milweb1.wetransfer.com
-southsideprintse1.wetransfer.com
-mercedesamgf1.wetransfer.com
-gamecock1.wetransfer.com
-mail1.wetransfer.com
-redcon1.wetransfer.com
-manoto1.wetransfer.com
-server1.wetransfer.com
-ns1.wetransfer.com
-dns1.wetransfer.com
-mediasofts1.wetransfer.com
-www.antivirus1.wetransfer.com
-kvant1.wetransfer.com
-espncrew1.wetransfer.com
-ww1.wetransfer.com
-www1.wetransfer.com
-mx1.wetransfer.com
-undercurrent-20150614194002.wetransfer.com
-hayes502.wetransfer.com
-ib2012.wetransfer.com
-red212.wetransfer.com
-hempzon2022.wetransfer.com
-wchoregon22.wetransfer.com
-agentur22.wetransfer.com
-virus32.wetransfer.com
-apo442.wetransfer.com
-leonardo62.wetransfer.com
-labhipermedia2.wetransfer.com
-deardtla2.wetransfer.com
-fpa2.wetransfer.com
-add2.wetransfer.com
-eve2.wetransfer.com
-staging2.wetransfer.com
-hoch2.wetransfer.com
-gi2.wetransfer.com
-londonreal2.wetransfer.com
-mail2.wetransfer.com
-gdaponto2.wetransfer.com
-ns2.wetransfer.com
-dns2.wetransfer.com
-auralsculptors2.wetransfer.com
-input2.wetransfer.com
-roadnav2.wetransfer.com
-www2.wetransfer.com
-yam112003.wetransfer.com
-dok13.wetransfer.com
-specialolympicsworldgamesberlin2023.wetransfer.com
-tr4033.wetransfer.com
-carbone33.wetransfer.com
-agir33.wetransfer.com
-gallery33.wetransfer.com
-lamp83.wetransfer.com
-fcbasel1893.wetransfer.com
-wm1893.wetransfer.com
-reset93.wetransfer.com
-labhipermedia3.wetransfer.com
-deardtla3.wetransfer.com
-b3.wetransfer.com
-skylinee3.wetransfer.com
-type3.wetransfer.com
-system3.wetransfer.com
-pop3.wetransfer.com
-excelexper3.wetransfer.com
-air3.wetransfer.com
-images3.wetransfer.com
-ns3.wetransfer.com
-frontend-v3.wetransfer.com
-bluescreen404.wetransfer.com
-nbd24.wetransfer.com
-displayland24.wetransfer.com
-pro-ducto-clippingservice24.wetransfer.com
-ns-1495.awsdns-58.org
-ns-1743.awsdns-25.co.uk
-ns-381.awsdns-47.com
-ns-616.awsdns-13.net
-1 aspmx.l.google.com
-10 alt3.aspmx.l.google.com
-10 alt4.aspmx.l.google.com
-5 alt1.aspmx.l.google.com
-5 alt2.aspmx.l.google.com
+
 
 
 #
