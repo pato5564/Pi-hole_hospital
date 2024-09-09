@@ -7,6 +7,12 @@
 # LatestVersion 1.5
 # ======================================================================================================
 #
+#
+#Expresion regular
+#
+ka$
+info$
+#
 #extenciones navegador
 #
 chromewebstore.google.com
@@ -81,6 +87,11 @@ webtoon-phinf.pstatic.net
 #
 # Phishing
 #
+findes.org.br
+org.br
+Y4DKKJ3NQPIYRH5M.veldenvleiprimary.co.za
+veldenvleiprimary.co.za
+co.za
 chile.bonomujer.org
 bonomujer.org
 emailGKB51K.ca.khpi.edu.ua
