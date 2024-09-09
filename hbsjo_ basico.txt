@@ -8,11 +8,6 @@
 # ======================================================================================================
 #
 #
-#Expresion regular
-#
-ka$
-info$
-#
 #extenciones navegador
 #
 chromewebstore.google.com
