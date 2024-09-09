@@ -79,8 +79,10 @@ madrid.org
 webtoon-phinf.pstatic.net
 
 #
-# Phising
+# Phishing
 #
+chile.bonomujer.org
+bonomujer.org
 emailGKB51K.ca.khpi.edu.ua
 ca.khpi.edu.ua
 khpi.edu.ua
