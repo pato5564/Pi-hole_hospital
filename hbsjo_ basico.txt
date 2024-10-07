@@ -17,7 +17,7 @@ addons.mozilla.org
 # google
 #
 safebrowsing.googleapis.com
-play.google.com
+#play.google.com
 calendar.google.com
 bard.google.com
 aspmx.l.google.com
