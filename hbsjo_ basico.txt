@@ -654,3 +654,5 @@ fp2e7a.wpc.phicdn.net
 dns.msftncsi.com
 msftncsi.com
 api.datadoghq.com
+gjlurnrgjon.com
+gmai.com
