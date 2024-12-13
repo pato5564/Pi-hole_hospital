@@ -660,8 +660,8 @@ prod.cloudops.mozgcp.net
 cloudops.mozgcp.net
 mozgcp.net
 fp2e7a.wpc.phicdn.net
-dns.msftncsi.com
-msftncsi.com
+#dns.msftncsi.com
+#msftncs
 api.datadoghq.com
 gjlurnrgjon.com
 gmai.com
