@@ -243,6 +243,20 @@ stat.s1link.org
 #
 # otros
 #
+api2-16-h2.musical.ly.edgekey.net
+bytedance.map.fastly.net
+musically-alternate.app.link
+musically.app.link
+video.h1.bytedance.map.fastly.net
+bytedance.com
+byteoversea.com
+ibytedtos.com
+ibyteimg.com
+muscdn.com
+musemuse.cn
+musical.ly
+pull-w5.tiktokcdn.com.c.worldfcdn.com
+pc-mon-va.byteoversea.com
 www.chileautos.cl
 chileautos.cl
 update.nai.com
