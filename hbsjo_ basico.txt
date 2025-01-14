@@ -82,6 +82,7 @@ webtoon-phinf.pstatic.net
 #
 # Phishing
 #
+reverse-diabetes-today.com
 sagessesmj.edu.lb
 edu.lb
 postemefqing.chainofscience.com
