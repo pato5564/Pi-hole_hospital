@@ -82,6 +82,8 @@ webtoon-phinf.pstatic.net
 #
 # Phishing
 #
+billing.microsoft.com
+axesetcibles.com
 reverse-diabetes-today.com
 sagessesmj.edu.lb
 edu.lb
