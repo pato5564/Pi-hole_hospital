@@ -82,6 +82,9 @@ webtoon-phinf.pstatic.net
 #
 # Phishing
 #
+manage.services-71658.obala.learnity.space
+obala.learnity.space
+learnity.space
 naturaladvantage.ca
 interna.ca
 billing.microsoft.com
