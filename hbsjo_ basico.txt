@@ -82,6 +82,8 @@ webtoon-phinf.pstatic.net
 #
 # Phishing
 #
+naturaladvantage.ca
+interna.ca
 billing.microsoft.com
 axesetcibles.com
 reverse-diabetes-today.com
