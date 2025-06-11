@@ -8,11 +8,14 @@
 # ======================================================================================================
 #
 #
+all.telenetflixparty.com
+telenetflixparty.com
 #
 #
 www.teleparty.com
 teleparty.com
 api.teleparty.com
+all.teleparty.com
 join.teleparty.com
 nimbus.teleparty.com
 redash.teleparty.com
