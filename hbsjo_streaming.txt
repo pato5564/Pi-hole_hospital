@@ -8,6 +8,19 @@
 # ======================================================================================================
 #
 #
+#
+#
+www.teleparty.com
+teleparty.com
+api.teleparty.com
+join.teleparty.com
+nimbus.teleparty.com
+redash.teleparty.com
+redirect.teleparty.com
+test1.teleparty.com
+test2.teleparty.com
+ww1.teleparty.com
+#
 #mux.com
 #
 mux.com
