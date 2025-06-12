@@ -8,6 +8,30 @@
 # ======================================================================================================
 #
 #
+#____ paris.avuxi.com ____
+#
+paris.avuxi.com
+dashboard.test.paris.avuxi.com
+geoapify.paris.avuxi.com
+api-test.paris.avuxi.com
+automation.paris.avuxi.com
+admin.paris.avuxi.com
+api.paris.avuxi.com
+a.api.paris.avuxi.com
+b.api.paris.avuxi.com
+c.api.paris.avuxi.com
+d.api.paris.avuxi.com
+a-tile.paris.avuxi.com
+b-tile.paris.avuxi.com
+c-tile.paris.avuxi.com
+dm.paris.avuxi.com
+hmtiles.paris.avuxi.com
+m.paris.avuxi.com
+qdm.paris.avuxi.com
+search-demo.paris.avuxi.com
+test.paris.avuxi.com
+tile.paris.avuxi.com
+#
 #____ etherum crypto ____
 #
 etherscan.com
