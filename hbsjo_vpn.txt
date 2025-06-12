@@ -12,6 +12,7 @@
 #----- urban-vpn.com-----
 #
 api.resi.urban-vpn.com
+anti-phishing-protection.urban-vpn.com
 up.urban-vpn.com
 urban-vpn.com
 blog.urban-vpn.com
