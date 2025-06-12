@@ -9,6 +9,16 @@
 #
 #
 #
+#----- urban-vpn.com-----
+#
+api.resi.urban-vpn.com
+up.urban-vpn.com
+urban-vpn.com
+blog.urban-vpn.com
+www.urban-vpn.com
+cdn-cfg.urban-vpn.com
+lp.urban-vpn.com
+#
 #----- ultrasurf.us-----
 #
 ultrasurf.us
