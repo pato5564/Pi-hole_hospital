@@ -8,6 +8,31 @@
 # ======================================================================================================
 #
 #
+#____ etherum crypto ____
+#
+etherscan.com
+gasext.etherscan.com
+_https.gasext.etherscan.com
+_3ooo._https.gasext.etherscan.com
+abt.etherscan.com
+api.etherscan.com
+api-cn.etherscan.com
+appsearch2.etherscan.com
+info.etherscan.com
+red.etherscan.com
+support.etherscan.com
+torus.etherscan.com
+torus2.etherscan.com
+mail-news.etherscan.com
+mail2-news.etherscan.com
+mail3-news.etherscan.com
+o2.ptr5412.etherscan.com
+cn.etherscan.com
+eas.etherscan.com
+goto.etherscan.com
+appsearch1.etherscan.com
+
+#
 #extenciones navegador
 #
 chromewebstore.google.com
