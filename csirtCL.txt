@@ -993,3 +993,39 @@ tribunalsupremo.com	#	Phishing-Malware_2CMV23-00400-01
 187.9.120.131	#	4IIA22-00056-01
 103.14.225.215	#	4IIA22-00056-01
 185.246.221.244	#	4IIA22-00056-01
+
+#
+#alertas
+#
+
+#AIA25-00004
+www.orijinalecza.net 
+orijinalecza.net
+snakejh.top
+www.snakejh.top
+avisos-sii.com
+www.avisos-sii.com
+callinuxwf.run
+www.callinuxwf.run 
+dorijinalecza.org
+www.dorijinalecza.org
+eczakozmetik.net
+www.eczakozmetik.net
+eczamedikal.org
+www.eczamedikal.org
+eczamedikal.org
+www.eczamedikal.org
+
+#ACF25-00012
+136.143.188.56
+20.253.198.3 
+parabella.store
+www.parabella.store
+
+#ACF25-00011 
+104.21.16.1 
+67.205.60.10 
+essentiallogistics.net.in
+liderbciserviciosfinancieros-cl-chile.creditoscl.sbs
+ya.casi-venezuela.com
+mail.tarjetaliderbci.cl 
