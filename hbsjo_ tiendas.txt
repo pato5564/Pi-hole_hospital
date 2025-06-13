@@ -29,6 +29,12 @@ promociones.salazarisrael.cl
 #
 #_____ tiendas_____
 #
+www.propool.cl
+propool.cl
+qconcall.com
+officebanking.cl
+www.shutterstock.com 
+shutterstock.com 
 www.yapo.cl
 static.yapo.cl
 img.yapo.cl
