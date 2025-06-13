@@ -8,6 +8,25 @@
 # ======================================================================================================
 #
 #
+www.surprice.cl
+surprice.cl
+mcstaging2.surprice.cl
+mcstaging.surprice.cl
+mcprod.surprice.cl
+www.news.surprice.cl
+news.surprice.cl
+#
+www.salazarisrael.cl
+salazarisrael.cl
+store.salazarisrael.cl
+ford.salazarisrael.cl
+www.ford.salazarisrael.cl
+store.salazarisrael.cl
+tienda.salazarisrael.cl
+www.tienda.salazarisrael.cl
+old-usados.salazarisrael.cl
+promociones.salazarisrael.cl
+#
 #_____ tiendas_____
 #
 www.yapo.cl
