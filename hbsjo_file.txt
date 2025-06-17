@@ -227,8 +227,8 @@ ns-1162.awsdns-17.org
 ns-1949.awsdns-51.co.uk
 ns-315.awsdns-39.com
 ns-564.awsdns-06.net
-10 mxa-001ed902.gslb.pphosted.com
-10 mxb-001ed902.gslb.pphosted.com
+mxa-001ed902.gslb.pphosted.com
+mxb-001ed902.gslb.pphosted.com
 client.dropbox.com
 d.dropbox.com
 api.dropboxapi.com

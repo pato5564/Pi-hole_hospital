@@ -35,10 +35,10 @@ rportcs.realvnc.com
 zowietest.realvnc.com
 stage-www.realvnc.com
 ns-107.awsdns-13.com.
-ns-1126.awsdns-12.org.
-ns-1853.awsdns-39.co.uk.
-ns-697.awsdns-23.net.
-0 realvnc-com.mail.protection.outlook.com.
+ns-1126.awsdns-12.org
+ns-1853.awsdns-39.co.uk
+ns-697.awsdns-23.net
+0 realvnc-com.mail.protection.outlook.com
 
 #
 #join.me
@@ -58,14 +58,14 @@ o20.join.me
 proxy12-01.proxy.join.me
 deploy.join.me
 proxy12-02.proxy.join.me
-a9-66.akam.net.
-a11-66.akam.net.
-a1-71.akam.net.
-a8-65.akam.net.
-a28-67.akam.net.
-a6-64.akam.net.
-10 mx0a-001a0901.pphosted.com.
-10 mx0b-001a0901.pphosted.com.
+a9-66.akam.net
+a11-66.akam.net
+a1-71.akam.net
+a8-65.akam.net
+a28-67.akam.net
+a6-64.akam.net
+mx0a-001a0901.pphosted.com
+mx0b-001a0901.pphosted.com
 goto.com
 ausea12.team.goto.com
 dpi-docs.live.gtc.goto.com
@@ -166,11 +166,11 @@ varnish.services-ed.goto.com
 launchstatus.stage.corecollab.ucc-prod.eva.goto.com
 aassa01.team.goto.com
 goto-container.ed.gtc.goto.com
-ns2.getgo.com.
-ns3.getgo.com.
-ns1.getgo.com.
-10 mx0b-001a0901.pphosted.com.
-10 mx0a-001a0901.pphosted.com.
+ns2.getgo.com
+ns3.getgo.com
+ns1.getgo.com
+mx0b-001a0901.pphosted.com
+mx0a-001a0901.pphosted.com
 
 #
 #logmein
@@ -275,14 +275,14 @@ storev02-001.logmein.com
 app12-11.logmein.com
 lmi-bwww14-01.logmein.com
 app02-v01.logmein.com
-a18-64.akam.net.
-a7-67.akam.net.
-a3-66.akam.net.
-a2-65.akam.net.
-a12-67.akam.net.
-a1-208.akam.net.
-10 mx0a-001a0901.pphosted.com.
-10 mx0b-001a0901.pphosted.com.
+a18-64.akam.net
+a7-67.akam.net
+a3-66.akam.net
+a2-65.akam.net
+a12-67.akam.net
+a1-208.akam.net
+mx0a-001a0901.pphosted.com
+mx0b-001a0901.pphosted.com
 
 
 #

@@ -518,10 +518,10 @@ uiboot.eu-west-1.prodaa.netflix.com
 ios.nccp.us-east-1.prodaa.netflix.com
 sec-oc.netflix.com
 dnm.prod.us-west-2.prodaa.netflix.com
-ns-1372.awsdns-43.org.
-ns-1984.awsdns-56.co.uk.
-ns-659.awsdns-18.net.
-ns-81.awsdns-10.com.
+ns-1372.awsdns-43.org
+ns-1984.awsdns-56.co.uk
+ns-659.awsdns-18.net
+ns-81.awsdns-10.com
 
 #
 #skype.com
