@@ -172,8 +172,8 @@ mtaa170.china.alibaba.com
 tesla.alibaba.com
 ns2.alibabadns.com.
 ns1.alibabadns.com.
-20 mx02.mail.alibaba.com.
-10 mx01.mail.alibaba.com.
+mx02.mail.alibaba.com.
+mx01.mail.alibaba.com.
 
 #
 #aliexpress
@@ -217,7 +217,7 @@ thirdparty.gds.aliexpress.com
 escrow.aliexpress.com
 ns2.alibabadns.com.
 ns1.alibabadns.com.
-10 mx2.mail.aliyun.com.
+mx2.mail.aliyun.com.
 #
 #shein
 #
@@ -243,5 +243,5 @@ ns-1253.awsdns-28.org.
 ns-1991.awsdns-56.co.uk.
 ns-398.awsdns-49.com.
 ns-893.awsdns-47.net.
-10 mxbiz2.qq.com.
-5 mxbiz1.qq.com.
+mxbiz2.qq.com.
+mxbiz1.qq.com.

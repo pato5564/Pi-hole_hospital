@@ -38,7 +38,7 @@ ns-107.awsdns-13.com.
 ns-1126.awsdns-12.org
 ns-1853.awsdns-39.co.uk
 ns-697.awsdns-23.net
-0 realvnc-com.mail.protection.outlook.com
+realvnc-com.mail.protection.outlook.com
 
 #
 #join.me

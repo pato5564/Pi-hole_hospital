@@ -114,7 +114,7 @@ colliers.sendthisfile.com
 www8.sendthisfile.com
 ace.ns.cloudflare.com
 rihana.ns.cloudflare.com
-0 sendthisfile-com.mail.protection.outlook.com
+sendthisfile-com.mail.protection.outlook.com
 
 
 
