@@ -114,8 +114,8 @@ ns-1495.awsdns-58.org
 ns-1743.awsdns-25.co.uk
 ns-381.awsdns-47.com
 ns-616.awsdns-13.net
-1 aspmx.l.google.com
-10 alt3.aspmx.l.google.com
-10 alt4.aspmx.l.google.com
-5 alt1.aspmx.l.google.com
-5 alt2.aspmx.l.google.com
+aspmx.l.google.com
+alt3.aspmx.l.google.com
+alt4.aspmx.l.google.com
+alt1.aspmx.l.google.com
+alt2.aspmx.l.google.com
